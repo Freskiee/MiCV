@@ -1,0 +1,27 @@
+/* Reset de márgenes y fuente Roboto */
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+/* Estilos para el input de búsqueda en hover */
+#input-search:hover {
+    /* Agrega los estilos de hover que desees */
+    /* Por ejemplo, cambiar el color del texto */
+    color: #ff0000; /* Rojo */
+}
+
+/* Estilos para los botones en hover */
+.btn-search:hover {
+    /* Agrega los estilos de hover que desees */
+    /* Por ejemplo, cambiar el color de fondo */
+    background-color: #00ff00; /* Verde */
+}
+
+/* Estilos para las imágenes del logotipo */
+#logo,
+#logo1 {
+    max-width: 100px; /* Define el ancho máximo de la imagen */
+    height: auto; /* Mantiene la proporción de aspecto original */
+}
+
