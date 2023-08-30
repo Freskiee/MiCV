@@ -1,0 +1,19 @@
+.profile-description {
+    color: black;
+    background-color: gray;
+    font-size: 25px;
+}
+
+.image-profile {
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: blue;
+    padding: 0px;
+}
+
+.skills {
+    color: pink;
+    background-color: dimgray;
+}
